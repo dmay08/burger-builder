@@ -1,0 +1,85 @@
+.burger-ingredient {
+    width: 300px;
+    text-align: center;
+    margin: 1px;
+}
+
+.kaiser {
+    background-color: saddlebrown;
+    border-radius: 50%;
+    height: 60px;
+    border: 1px solid black;;
+}
+
+.sesame {
+    background-color: sandybrown;
+    border-radius: 50%;
+    height: 60px;
+    border: 1px solid black;;
+}
+
+.gluten {
+    background-color: peru;
+    border-radius: 50%;
+    height: 60px;
+    border: 1px solid black;;
+}
+
+.beef {
+    background-color: #3F250B;
+    border: 1px solid rgb(1, 1, 1);
+    border-radius: 20px;
+    height: 45px;
+}
+
+.soy {
+    background-color: #3F250B;
+    border: 1px solid rgb(1, 1, 1);
+    border-radius: 20px;
+    height: 45px;
+
+}
+
+.black {
+    background-color: #3F250B;
+    border: 1px solid rgb(1, 1, 1);
+    border-radius: 20px;
+    height: 45px;
+
+}
+
+.chicken {
+    background-color: burlywood;
+    border: 1px solid rgb(1, 1, 1);
+    border-radius: 20px;
+    height: 45px;
+}
+
+.lettuce {
+    background-color: lawngreen;
+    border-radius: 8px;
+    height: 8px;
+    border: 1px solid black;
+}
+
+.tomato {
+    background-color: tomato;
+    border-radius: 5px;
+    height: 15px;
+    border: 1px solid black;
+}
+
+.bacon {
+    background-color: maroon;
+    border-radius: 5px;
+    height: 10px;
+    border: 1px solid black;
+}
+
+.onion {
+    background-color: lightyellow;
+    border-radius: 5px;
+    height: 8px;
+    border: 1px solid black;
+}
+

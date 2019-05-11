@@ -1,0 +1,28 @@
+.pane-wrap {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    width: 500px;
+    height: 420px;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 10px;
+    margin-top: 40px;
+    overflow: auto;
+}
+
+.middle-wrap {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.buttons-wrap {
+    display: flex;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.clear-button, .recent-button {
+    margin: 20px 5px 10px 5px;
+}

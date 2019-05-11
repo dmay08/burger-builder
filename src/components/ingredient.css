@@ -1,0 +1,61 @@
+.ingredient-wrap {
+    display: flex;
+    /* margin-top: 5px; */
+}
+
+.ingredient {
+    margin: 5px;
+    padding-right: 10px;
+    width: 130px;
+}
+
+button {
+    border-radius: 5px;
+    height: 20px;
+    margin-top: 3px;
+}
+
+.KAISER {
+    color: saddlebrown;
+}
+
+.SESAME {
+    color: sandybrown;
+}
+
+.GLUTEN {
+    color: peru;
+}
+
+.BEEF {
+    color: #3F250B;
+}
+
+.SOY {
+    color: #3F250B;
+}
+
+.BLACK {
+    color: #3F250B;
+}
+
+.CHICKEN {
+    color: burlywood;
+}
+
+.LETTUCE {
+    color: lawngreen;
+}
+
+.TOMATO {
+    color: tomato;
+}
+
+.BACON {
+    color: maroon;
+}
+
+.ONION {
+    color: gold;
+} 
+
